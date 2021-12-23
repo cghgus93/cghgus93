@@ -12,3 +12,6 @@ while True:
         print('tab')
         pyautogui.press('down')
         print('down')       
+        
+        #내부에서 조금 변경
+        
