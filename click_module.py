@@ -4,7 +4,7 @@ import sys
 import datetime
 import cv2
 
-# test11132432 
+# test1113243232
 def find_target(img_file, timeout = 30):
     start = time.time()
     target = None
